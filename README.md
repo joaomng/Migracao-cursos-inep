@@ -18,7 +18,7 @@ Repositório para a automatização da migração dos cursos para o censo da edu
       
       pip install numpy 
       
-    Após a instalação, digitar: 
+Após a instalação, digitar: 
     
       pip install pandas
 
