@@ -24,9 +24,10 @@ Repositório para a automatização da migração dos cursos para o censo da edu
   
        cd Documentos 
   
-       abre a pasta Documentos. O comando <br/> 
-       cd Documentos\Pasta_1 <br/>
-       abre a pasta Pasta_1, que está dentro da pasta documentos <br/>
+  abre a pasta Documentos. O comando <br/> 
+       cd Documentos\Pasta_1 
+       
+  abre a pasta Pasta_1, que está dentro da pasta documentos <br/>
   
   <b> 3.4. Digitar o seguinte comando </b> <br/>
         python migracao_cursos.py <br/>
