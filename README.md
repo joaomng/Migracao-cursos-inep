@@ -2,10 +2,10 @@
 Repositório para a automatização da migração dos cursos para o censo da educação superior
 
 ## Dependências:
-- numpy
-  pip install numpy
-- pandas
-  pip install pandas
+- numpy <br/>
+  pip install numpy <br/>
+- pandas <br/>
+  pip install pandas <br/>
 
 ## Como utilizar:
 
@@ -19,15 +19,15 @@ Repositório para a automatização da migração dos cursos para o censo da edu
 
 <b> 3. Executar o programa <b/>
   3.1. Fazer o download deste repositório; <br/>
-  3.2. Extrair o repositório
-  3.3. Abrir o cmd e ir para a pasta do repositório. O comando "cd" abre uma pasta, por exemplo, o comando:
-       cd Documentos
-       abre a pasta Documentos. O comando 
-       cd Documentos\Pasta_1
-       abre a pasta Pasta_1, que está dentro da pasta documentos
+  3.2. Extrair o repositório <br/>
+  3.3. Abrir o cmd e ir para a pasta do repositório. O comando "cd" abre uma pasta, por exemplo, o comando: <br/>
+       cd Documentos <br/>
+       abre a pasta Documentos. O comando <br/> 
+       cd Documentos\Pasta_1 <br/>
+       abre a pasta Pasta_1, que está dentro da pasta documentos <br/>
   
-  3.4. Digitar o seguinte comando
-        python migracao_cursos.py
+  3.4. Digitar o seguinte comando <br/>
+        python migracao_cursos.py <br/>
 
         O programa iniciará a execução
 
