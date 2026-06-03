@@ -9,10 +9,10 @@ Repositório para a automatização da migração dos cursos para o censo da edu
 
 ## Como utilizar:
 
-<b> 1. Instalar python: </b> 
+<b> 1. Instalar python: </b> <br/>
     No windows, pesquisar "python" na barra de pesquisa e instalar conforme a página da microsoft store que será aberta. <br/>
 
-<b> 2. Instalar dependências </b>
+<b> 2. Instalar dependências </b> <br/>
     No windows, pesquisar "cmd" na barra de pesquisa. Apertando Enter será aberto o prompt de comando. <br/>
     No prompt, digitar: 
       
@@ -37,11 +37,11 @@ Após a instalação, digitar:
   
   <b> 3.4. Digitar o seguinte comando </b> <br/>
   
-        python migracao_cursos.py <br/>
+        python migracao_cursos.py 
 
   O programa iniciará a execução
 
-  <b> 3.5. Siga as instruções na tela </b>
+  <b> 3.5. Siga as instruções na tela </b> <br/>
   Será solicitado o nome das planilhas, é preciso digitá-los corretamente, incluindo maiúsculas e minúsculas. <br/>
   O mesmo vale pras abas das planilhas.
         
