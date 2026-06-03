@@ -46,7 +46,8 @@ Após a instalação, digitar:
   O mesmo vale pras abas das planilhas.
         
 
-    
+## Obs:
+Esse repositório também tem um notebook .ipynb para uma execução interativa dos scripts de migração.
 
 
 ## Importante:
