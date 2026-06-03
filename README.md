@@ -21,7 +21,9 @@ Repositório para a automatização da migração dos cursos para o censo da edu
   3.1. Fazer o download deste repositório; <br/>
   3.2. Extrair o repositório <br/>
   3.3. Abrir o cmd e ir para a pasta do repositório. O comando "cd" abre uma pasta, por exemplo, o comando: <br/>
-       cd Documentos <br/>
+  
+       cd Documentos 
+  
        abre a pasta Documentos. O comando <br/> 
        cd Documentos\Pasta_1 <br/>
        abre a pasta Pasta_1, que está dentro da pasta documentos <br/>
