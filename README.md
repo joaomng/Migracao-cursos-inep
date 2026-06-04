@@ -39,7 +39,7 @@ Repositório para a automatização da migração dos cursos para o censo da edu
 
   <b> 3.5. Siga as instruções na tela </b> <br/>
   Será solicitado o nome das planilhas, é preciso digitá-los corretamente, incluindo maiúsculas e minúsculas. <br/>
-  O mesmo vale pras abas das planilhas.
+  O mesmo vale para as abas das planilhas.
         
 
 ## Obs:
