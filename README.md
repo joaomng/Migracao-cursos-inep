@@ -47,5 +47,5 @@ Esse repositório também tem um notebook .ipynb para uma execução interativa 
 
 
 ## Importante:
-Só funciona com planilhas que estejam formatadas conforme as planilhas de exemplo (no caso da planilha de cursos, por exemplo, <br/> com o cabeçalho na SEGUNDA linha e as colunas na mesma ordem), e só para cursos 100% presenciais <br/>
+Só funciona com planilhas que estejam formatadas conforme as planilhas de exemplo (no caso da planilha de cursos, por exemplo, <br/> com o cabeçalho na SEGUNDA linha e as colunas na mesma ordem até a coluna L (as demais não são usadas diretamente pelo script)), e só para cursos 100% presenciais <br/>
 e que TIVERAM ALUNOS INSCRITOS NO ANO DE REFERÊNCIA
