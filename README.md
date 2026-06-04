@@ -1,6 +1,10 @@
 # Migracao-cursos-inep
 Repositório para a automatização da migração dos cursos para o censo da educação superior
 
+
+## IMPORTANTE:
+Só funciona com planilhas que estejam formatadas conforme as planilhas de exemplo (no caso da planilha de cursos, por exemplo, <br/> com o cabeçalho na SEGUNDA linha e as colunas na mesma ordem até a coluna L (as demais não são usadas diretamente pelo script)), e só para cursos 100% presenciais e que TIVERAM ALUNOS INSCRITOS NO ANO DE REFERÊNCIA
+
 ## Dependências:
 
 - pandas <br/>
@@ -8,6 +12,8 @@ Repositório para a automatização da migração dos cursos para o censo da edu
    pip install pandas 
 
 ## Como utilizar:
+
+Executar notebook .ipynb, ou:
 
 <b> 1. Instalar python: </b> <br/>
     No windows, pesquisar "python" na barra de pesquisa e instalar conforme a página da microsoft store que será aberta. <br/>
@@ -43,8 +49,6 @@ Repositório para a automatização da migração dos cursos para o censo da edu
         
 
 ## Obs:
-Esse repositório também tem um notebook .ipynb para uma execução interativa dos scripts de migração, possibilitando mudar os parâmetros das funções utilizadas.
+O notebook .ipynb neste repositório possibilita uma execução interativa dos scripts de migração, permitindo entre outras coisas mudar os parâmetros das funções utilizadas.
 
 
-## Importante:
-Só funciona com planilhas que estejam formatadas conforme as planilhas de exemplo (no caso da planilha de cursos, por exemplo, <br/> com o cabeçalho na SEGUNDA linha e as colunas na mesma ordem até a coluna L (as demais não são usadas diretamente pelo script)), e só para cursos 100% presenciais e que TIVERAM ALUNOS INSCRITOS NO ANO DE REFERÊNCIA
