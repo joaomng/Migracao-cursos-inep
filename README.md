@@ -43,7 +43,7 @@ Repositório para a automatização da migração dos cursos para o censo da edu
         
 
 ## Obs:
-Esse repositório também tem um notebook .ipynb para uma execução interativa dos scripts de migração.
+Esse repositório também tem um notebook .ipynb para uma execução interativa dos scripts de migração, possibilitando mudar os parâmetros das funções utilizadas.
 
 
 ## Importante:
