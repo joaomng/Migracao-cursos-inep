@@ -16,10 +16,6 @@ Repositório para a automatização da migração dos cursos para o censo da edu
     No windows, pesquisar "cmd" na barra de pesquisa. Apertando Enter será aberto o prompt de comando. <br/>
     No prompt, digitar: 
       
-      pip install numpy 
-      
-Após a instalação, digitar: 
-    
       pip install pandas
 
 <b> 3. Executar o programa </b> <br/>
