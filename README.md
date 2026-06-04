@@ -2,10 +2,10 @@
 Repositório para a automatização da migração dos cursos para o censo da educação superior
 
 ## Dependências:
-- numpy <br/>
-  pip install numpy <br/>
+
 - pandas <br/>
-  pip install pandas <br/>
+
+   pip install pandas 
 
 ## Como utilizar:
 
