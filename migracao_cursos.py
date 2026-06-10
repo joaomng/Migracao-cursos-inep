@@ -454,10 +454,10 @@ def migracao_curso(nome_origem_curso, nome_origem_pcd, destino, aba_origem_curso
 if __name__ == "__main__":
 
 
-  nome_origem_curso = input("Insira o nome da planilha dos cursos (exemplo: cursos.xlsx)")
-  aba_origem_curso = input("Insira o nome da aba dessa planilha com as informações dos cursos (exemplo: Cursos)")
-  nome_origem_pcd = input("Insira o nome da planilha com as informações de acessibilidade por curso (exemplo: acessibilidade.xlsx)")
-  aba_origem_pcd = input("Insira o nome da aba dessa planilha com as informações dos cursos (exemplo: Acessibilidade)")
+  nome_origem_curso = input("Insira o nome da planilha dos cursos (exemplo: cursos.xlsx)\n")
+  aba_origem_curso = input("Insira o nome da aba dessa planilha com as informações dos cursos (exemplo: Cursos)\n")
+  nome_origem_pcd = input("Insira o nome da planilha com as informações de acessibilidade por curso (exemplo: acessibilidade.xlsx)\n")
+  aba_origem_pcd = input("Insira o nome da aba dessa planilha com as informações dos cursos (exemplo: Acessibilidade)\n")
 
   destino = "migracao_curso.txt"
 
